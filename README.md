@@ -1,5 +1,5 @@
 
-In this repository, I have implmented few algorithms for regression and classification.
+In this repository, I have implmented few algorithms using regression and classification.
 
 Air Quality prediction regression model is implemented with two algorithms.
 1. Random Forest Regression
